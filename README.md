@@ -1,7 +1,7 @@
 # CardDeck
 Shuffle your card deck.
 
-card_client - frontend project created using vue .js
+carddeck_client - frontend project created using vue .js
 # Client Installation
 
 - npm install
